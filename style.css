@@ -1,0 +1,21 @@
+body{
+    background:pink ;  
+    color: white; 
+   }
+   
+   .name_of_objects, #object_name, #percentage{
+       color: yellow;
+   }
+   
+   #cam{
+       border: 2px dashed black;
+       width: 350px;
+       height: 300;
+   }
+   
+   .heading{
+       width: 80%;
+       font: size 22px; ;
+   }
+   
+   
